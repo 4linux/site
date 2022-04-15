@@ -50,7 +50,7 @@ require('header.php');
 						<td>99875</td>
 						<td><a href="cliente.php">Mordechai Advogados</a></td>
 						<td>(11) 2125-4747</td>
-						<td>Docs TST</td>ltima
+						<td>Docs TST</td>
 						<td>30,00</td>
 						<td>Em viagem</td>
 					</tr>
